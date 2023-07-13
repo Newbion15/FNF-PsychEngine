@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				531,
+				1090
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sharkleft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-320,
+				110
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sharkdown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-356,
+				840
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sharkup"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-300,
+				517
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sharkright"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "swim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shark",
+	"position": [
+		-880,
+		210
+	],
+	"healthicon": "shark",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		160,
+		195
+	],
+	"camera_position": [
+		10,
+		-1010
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}
