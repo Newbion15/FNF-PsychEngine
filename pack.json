@@ -1,6 +1,7 @@
 {
-	"name": "Name",
-	"description": "Description",
+	"name": "shark",
+	"description": "yes a shark",
 	"restart":false,
-	"color": [170, 0, 255]
+	"runGlobally": false,
+	"color": [120, 160, 195]
 }
